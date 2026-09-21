@@ -17,7 +17,7 @@
 .USAGE
     Example syntax:
     PS C:\> (STIG-ID-WN11-AC-000005).ps1 
-
+#>
 
 # WN11-AC-000005
 net.exe accounts /lockoutduration:15
