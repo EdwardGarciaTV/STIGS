@@ -17,6 +17,7 @@
 .USAGE
     Example syntax:
     PS C:\> (STIG-ID-WN11-SO-000025).ps1 
+    #>
 
 $G=Get-LocalUser|Where-Object SID -Match '-501$'
 if((Get-LocalUser User -EA SilentlyContinue) -and $G.Name-ne'User'){throw "'User' already exists"}
