@@ -16,7 +16,7 @@
 
 .USAGE
     Example syntax:
-    PS C:\> (STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> (STIG-ID-WN11-AU-000500).ps1 
 #>
 
 $Path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
