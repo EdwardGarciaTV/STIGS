@@ -14,14 +14,7 @@
     STIG-ID         : WN11-SO-000025
     Documentation   : https://stigaview.com/products/win11/v2r8/WN11-SO-000025/
 
-.TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
-
 .USAGE
-    Put any usage instructions here.
     Example syntax:
     PS C:\> (STIG-ID-WN11-SO-000025).ps1 
 
