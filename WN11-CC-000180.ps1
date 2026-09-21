@@ -17,6 +17,7 @@
 .USAGE
     Example syntax:
     PS C:\> (STIG-ID-WN11-CC-000180).ps1 
+    #>
 
 $P='HKLM:\SOFTWARE\Policies\Microsoft\Windows\Explorer'
 New-Item $P -Force|Out-Null
