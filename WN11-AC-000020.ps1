@@ -17,6 +17,7 @@
 .USAGE
     Example syntax:
     PS C:\> (STIG-ID-WN11-AC-000020).ps1 
+#>
 
 # WN11-AC-000020
 net.exe accounts /uniquepw:24
