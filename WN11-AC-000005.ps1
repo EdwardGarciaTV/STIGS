@@ -14,14 +14,7 @@
     STIG-ID         : WN11-AC-000005
     Documentation   : https://stigaview.com/products/win11/v2r8/WN11-AC-000005/
 
-.TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
-
 .USAGE
-    Put any usage instructions here.
     Example syntax:
     PS C:\> (STIG-ID-WN11-AC-000005).ps1 
 
